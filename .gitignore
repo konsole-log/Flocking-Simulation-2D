@@ -2,3 +2,4 @@
 *.dsym
 main
 *.zip
+.vscode
